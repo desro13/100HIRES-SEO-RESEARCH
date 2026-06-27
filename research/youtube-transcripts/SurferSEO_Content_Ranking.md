@@ -8,7 +8,7 @@
 
 Matt Kenyon presents 5 real case studies of content that ranked well in both traditional search and AI results — analyzing what each did right.
 
-## Key Study Highlights
+## Key Points
 
 - **Case 1: The Fresh Content Win**: A site that updated its oldest content (2+ years old) with fresh data, new examples, and current statistics saw a 340% increase in AI citations within 30 days.
 - **Case 2: Structure Overhaul**: A content piece that was rewritten with question-format headers and clear answer sections went from 0 to featured in ChatGPT responses within 2 weeks.
