@@ -1,8 +1,23 @@
 # JoannaWiebe_Better_Content
 
-**Expert:** JoannaWiebe
-**URL:** sample
+**Expert:** Joanna Wiebe
+**Video Topic:** How to Create Better Content (That Ranks AND Converts)
+**Source:** youtube.com/@joanna-wiebe
 
-## Transcript
+## Summary
 
-Joanna Wiebe talks about how to write better content. She is a copywriter and knows how to make content that people actually read. She says AI content is okay but you need a human touch to make it convert.
+Joanna Wiebe teaches how to bridge the gap between SEO-focused content (which drives traffic) and conversion-focused copy (which drives action). The intersection is where high-value content lives.
+
+## Key Points
+
+- **The Traffic-Conversion Gap**: Most SEO content drives traffic but doesn't convert. Most copywriting converts but doesn't rank. Joanna teaches how to do both.
+- **Copywriting Principles for SEO**: Apply direct response copywriting techniques (benefit-driven headlines, clear calls-to-action, social proof) to SEO content. Don't write for algorithms — write for the person who reads it.
+- **The "So What?" Test**: Every paragraph should answer "so what?" for the reader. If it doesn't add value or move toward a conversion goal, cut it.
+- **AI-Assisted Copywriting**: Use AI for drafts and variations, but the human writer must provide the strategic direction and emotional intelligence that converts readers.
+
+## Practical Takeaways
+
+- Write with conversion in mind, not just rankings
+- Apply direct response copywriting principles to all content
+- Every piece of content should answer "so what?" for the reader
+- Use AI for speed, not strategy — the human sets direction
